@@ -1,0 +1,9 @@
+C:\Balta\Todo\Todo.Domain\bin\Debug\netstandard2.1\Todo.Domain.deps.json
+C:\Balta\Todo\Todo.Domain\bin\Debug\netstandard2.1\Todo.Domain.dll
+C:\Balta\Todo\Todo.Domain\bin\Debug\netstandard2.1\Todo.Domain.pdb
+C:\Balta\Todo\Todo.Domain\obj\Debug\netstandard2.1\Todo.Domain.AssemblyInfoInputs.cache
+C:\Balta\Todo\Todo.Domain\obj\Debug\netstandard2.1\Todo.Domain.AssemblyInfo.cs
+C:\Balta\Todo\Todo.Domain\obj\Debug\netstandard2.1\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Balta\Todo\Todo.Domain\obj\Debug\netstandard2.1\Todo.Domain.dll
+C:\Balta\Todo\Todo.Domain\obj\Debug\netstandard2.1\Todo.Domain.pdb
+C:\Balta\Todo\Todo.Domain\obj\Debug\netstandard2.1\Todo.Domain.csproj.AssemblyReference.cache

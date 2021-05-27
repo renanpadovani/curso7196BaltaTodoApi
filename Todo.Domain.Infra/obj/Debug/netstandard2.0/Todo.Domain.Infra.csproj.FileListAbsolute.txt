@@ -1,0 +1,12 @@
+C:\Balta\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.deps.json
+C:\Balta\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Balta\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+C:\Balta\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csprojAssemblyReference.cache
+C:\Balta\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Balta\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Balta\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Balta\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Balta\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+C:\Balta\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Balta\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Balta\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CopyComplete

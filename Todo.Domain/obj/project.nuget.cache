@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzEhUOLSkjSrA3nSYhnsVpGPB0dgn25H1UxvOPbdD7fMRqSpeGsLoit9JiTz7LQqGG6w3x4d0N1NE/lqUeQwtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Balta\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renan\\.nuget\\packages\\flunt\\2.0.3\\flunt.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
